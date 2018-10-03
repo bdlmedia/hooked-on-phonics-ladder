@@ -1,0 +1,26 @@
+#second, #third,  #result {
+	
+	display: none;
+}
+
+ #prgressText a {
+	color: white;
+} 
+
+#formBox {
+	display: none;
+}
+
+#loadingBar {
+	display: none;
+}
+#offerFound {
+	display: none;
+}
+
+#form-data label{    width: auto;
+    display: table;
+    border-bottom:1px solid #b7b7b7;
+    margin-bottom: 10px;
+    text-align: center;}
+#form-data label input{width: auto;}
